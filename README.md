@@ -1,2 +1,7 @@
-# todo-jenkins-ecr
-Todo Web Application Deployed on ECR to ECS Cluster with Jenkins Pipeline
+#        Jenkins Pipeline for Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker
+
+![project](steps.png)
+
+
+
+
